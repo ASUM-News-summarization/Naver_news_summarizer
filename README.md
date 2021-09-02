@@ -6,6 +6,14 @@
 - 팀원: 금지헌, 윤정현, 장하연, 최정윤 <br>
 <br>
 
+## ❕ 사용 방법
+- main 폴더에서 아래 코드 실행
+- model 폴더에 fine-tuning한 모델이 있어야 합니다.
+- 앱 비밀번호 발급은 https://support.google.com/mail/answer/185833?hl=ko 를 참고해주세요.
+```
+python main.py --email [gmail] --password [gmail 앱비밀번호]
+```
+<br>
 
 ## ❕ 사용 데이터셋
 - 뉴스 데이터 <br>
