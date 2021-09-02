@@ -7,8 +7,8 @@
 <br>
 
 ## ❕ 사용 방법
-- main 폴더에서 아래 코드 실행
-- main 폴더 아래 email_list.txt에 이메일 받는 사람의 이메일 리스트 필요
+- git clone 후, main 폴더에서 아래 코드 실행
+- main 폴더 아래 email_list.txt에 이메일 받는 사람의 이메일 리스트 업데이트 필요
 - model 폴더에 fine-tuning한 모델 필요
 - 앱 비밀번호 발급은 https://support.google.com/mail/answer/185833?hl=ko 를 참고해주세요.
 ```
