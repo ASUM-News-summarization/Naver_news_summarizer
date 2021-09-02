@@ -17,7 +17,7 @@ python main.py --email [gmail] --password [gmail 앱비밀번호]
 <br>
 
 ## ❕ 사용 데이터셋
-- 뉴스 데이터 <br>
+- 문서요약 텍스트 : 신문기사 <br>
 - 출처: AIHub
 <br>
 
