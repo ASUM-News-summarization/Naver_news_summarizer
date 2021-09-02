@@ -70,4 +70,4 @@ if __name__ == "__main__":
     pswd = args.password
     
     main = Main()
-    main.main(email, pswd, 5)
+    main.main(email, pswd)
